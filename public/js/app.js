@@ -1,5 +1,3 @@
-console.log('Hello JS file');
-
 const weatherForm = document.querySelector('form');
 const searchLocation = document.querySelector('input');
 const messageOne = document.querySelector('#message-1');
